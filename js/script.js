@@ -4,6 +4,14 @@
 // Created on: April 2025
 // This file contains the JS functions for index.html
 
+"use strict"
+
+  if (navigator.serviceWorker) {
++   navigator.serviceWorker.register("/ICD20-PWA-Test/sw.js",
+  {
+  scope: "ICD20-PWA-Test/",
+    })
+}
 
 function calculaterandomnumber () {
 const lengthAString = prompt("Enter length A of the triangle (mm):")
