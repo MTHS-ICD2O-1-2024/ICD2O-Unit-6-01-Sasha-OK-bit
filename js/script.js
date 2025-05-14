@@ -9,7 +9,7 @@
   if (navigator.serviceWorker) {
 +   navigator.serviceWorker.register("/ICD20-PWA-Test/sw.js",
   {
-  scope: "ICD20-PWA-Test/",
+  scope: "/ICD20-PWA-Test/",
     })
 }
 
