@@ -2,8 +2,8 @@
   "name": "Sasha's App",
   "short_name": "Sasha's App",
   "description": "Github Page for Sasha's App",
-  "scope": "/ICD2O-PWA-Test/",
-  "start_url": "/ICD2O-PWA-Test/",
+  "scope": "/ICD2O-Unit-6-01-Sasha-OK-bit/",
+  "start_url": "/ICD2O-Unit-6-01-Sasha-OK-bit/",
   "permissions": [ 
     "unlimitedStorage",
     "fullscreen"

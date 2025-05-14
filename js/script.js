@@ -7,9 +7,9 @@
 "use strict"
 
   if (navigator.serviceWorker) {
-+   navigator.serviceWorker.register("/ICD20-PWA-Test/sw.js",
++   navigator.serviceWorker.register("/ICD2O-Unit-6-01-Sasha-OK-bit/sw.js",
   {
-  scope: "/ICD20-PWA-Test/",
+  scope: "/ICD2O-Unit-6-01-Sasha-OK-bit/",
     })
 }
 
